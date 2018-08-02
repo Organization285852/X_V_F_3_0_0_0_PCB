@@ -1,0 +1,47 @@
+Added Component: Designator=U1(IM69D130 - duplicate)
+Added Component: Designator=U3(IM69D130 - duplicate)
+Added Component: Designator=U4(IM69D130 - duplicate)
+Added Component: Designator=U6(IM69D130 - duplicate)
+Added Component: Designator=U7(DFN6D)
+Added Component: Designator=U9(DFN6D)
+Added Component: Designator=U11(LC-SOT-23-5)
+Added Pin To Net: NetName=1V8 Pin=U1-2
+Added Pin To Net: NetName=MIC0_CLK Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=1V8 Pin=U3-2
+Added Pin To Net: NetName=MIC1_CLK Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=1V8 Pin=U4-2
+Added Pin To Net: NetName=MIC2_CLK Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=1V8 Pin=U6-2
+Added Pin To Net: NetName=MIC3_CLK Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=NetR10_2 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=5V Pin=U7-4
+Added Pin To Net: NetName=5V Pin=U7-5
+Added Pin To Net: NetName=5V Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=NetR16_2 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=5V Pin=U9-4
+Added Pin To Net: NetName=5V Pin=U9-5
+Added Pin To Net: NetName=PG_3V3 Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=3V3 Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=3V3 Pin=U11-3
+Added Pin To Net: NetName=1V8 Pin=U11-5
+Added Member To Class: ClassName=U_Microphones Member=Component U1 IM69D130
+Added Member To Class: ClassName=U_Microphones Member=Component U3 IM69D130
+Added Member To Class: ClassName=U_Microphones Member=Component U4 IM69D130
+Added Member To Class: ClassName=U_Microphones Member=Component U6 IM69D130
+Added Member To Class: ClassName=U_Power Member=Component U7 ST1S06
+Added Member To Class: ClassName=U_Power Member=Component U9 ST1S06
+Added Member To Class: ClassName=U_Power Member=Component U11 LP5907MFX-1.8
+Added Room: Name=U_Power
