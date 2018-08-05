@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3V3 Pin=C55-1
+Removed Pin From Net: NetName=3V3 Pin=C56-1
+Removed Pin From Net: NetName=3V3 Pin=C57-1
+Removed Pin From Net: NetName=3V3 Pin=C58-1
+Removed Pin From Net: NetName=3V3 Pin=C59-1
+Removed Pin From Net: NetName=3V3 Pin=C60-1
+Removed Pin From Net: NetName=3V3 Pin=C61-1
+Removed Pin From Net: NetName=3V3 Pin=C62-1
+Removed Pin From Net: NetName=3V3 Pin=C63-1
+Removed Pin From Net: NetName=3V3 Pin=C64-1
+Removed Pin From Net: NetName=3V3 Pin=C65-1
+Removed Pin From Net: NetName=3V3 Pin=C66-1
+Added Pin To Net: NetName=1V0 Pin=C55-1
+Added Pin To Net: NetName=1V0 Pin=C56-1
+Added Pin To Net: NetName=1V0 Pin=C57-1
+Added Pin To Net: NetName=1V0 Pin=C58-1
+Added Pin To Net: NetName=1V0 Pin=C59-1
+Added Pin To Net: NetName=1V0 Pin=C60-1
+Added Pin To Net: NetName=1V0 Pin=C61-1
+Added Pin To Net: NetName=1V0 Pin=C62-1
+Added Pin To Net: NetName=1V0 Pin=C63-1
+Added Pin To Net: NetName=1V0 Pin=C64-1
+Added Pin To Net: NetName=1V0 Pin=C65-1
+Added Pin To Net: NetName=1V0 Pin=C66-1
+Added Room: Name=TopLevel
+Added Room: Name=U_Microphones
+Added Room: Name=U_Power
+Added Room: Name=U_Tile 0
+Added Room: Name=U_Tile 1

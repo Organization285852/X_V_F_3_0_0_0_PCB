@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=3V3 Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=3V3 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=3V3 Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=3V3 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=U12-1
+Removed Pin From Net: NetName=LED0 Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U12-4
+Removed Pin From Net: NetName=LED1 Pin=U12-5
+Removed Pin From Net: NetName=GND Pin=U12-7
+Removed Pin From Net: NetName=LED2 Pin=U12-9
+Removed Pin From Net: NetName=GND Pin=U12-10
+Removed Pin From Net: NetName=LED3 Pin=U12-12
+Removed Pin From Net: NetName=GND Pin=U12-13
+Removed Pin From Net: NetName=3V3 Pin=U12-14
+Removed Pin From Net: NetName=GND Pin=U14-1
+Removed Pin From Net: NetName=LED4 Pin=U14-2
+Removed Pin From Net: NetName=GND Pin=U14-4
+Removed Pin From Net: NetName=LED5 Pin=U14-5
+Removed Pin From Net: NetName=GND Pin=U14-7
+Removed Pin From Net: NetName=LED6 Pin=U14-9
+Removed Pin From Net: NetName=GND Pin=U14-10
+Removed Pin From Net: NetName=LED7 Pin=U14-12
+Removed Pin From Net: NetName=GND Pin=U14-13
+Removed Pin From Net: NetName=3V3 Pin=U14-14
+Removed Pin From Net: NetName=GND Pin=U15-1
+Removed Pin From Net: NetName=LED8 Pin=U15-2
+Removed Pin From Net: NetName=GND Pin=U15-4
+Removed Pin From Net: NetName=LED9 Pin=U15-5
+Removed Pin From Net: NetName=GND Pin=U15-7
+Removed Pin From Net: NetName=LED10 Pin=U15-9
+Removed Pin From Net: NetName=GND Pin=U15-10
+Removed Pin From Net: NetName=LED11 Pin=U15-12
+Removed Pin From Net: NetName=GND Pin=U15-13
+Removed Pin From Net: NetName=3V3 Pin=U15-14
+Removed Pin From Net: NetName=GND Pin=U16-1
+Removed Pin From Net: NetName=LED12 Pin=U16-2
+Removed Pin From Net: NetName=GND Pin=U16-3
+Removed Pin From Net: NetName=3V3 Pin=U16-5
+Removed Member From Class: ClassName=U_Tile 0 Member=C22
+Removed Member From Class: ClassName=U_Tile 0 Member=C23
+Removed Member From Class: ClassName=U_Tile 0 Member=C24
+Removed Member From Class: ClassName=U_Tile 0 Member=C25
+Removed Member From Class: ClassName=U_Tile 0 Member=U12
+Removed Member From Class: ClassName=U_Tile 0 Member=U14
+Removed Member From Class: ClassName=U_Tile 0 Member=U15
+Removed Member From Class: ClassName=U_Tile 0 Member=U16
+Change Component DesignItemId : Designator=J3 Old DesignItemId=Phonejack3 RN New DesignItemId=Phonejack3
+Change Component Footprint: Designator=J3 Old Footprint=JACK/6-V4A New Footprint=JACK/6-V3
+Change Component Comment : Designator=J3 Old Comment=Phonejack3 RN New Comment=Phonejack3
+Change Component Designator: OldDesignator=C26 NewDesignator=C22
+Change Component Designator: OldDesignator=C27 NewDesignator=C23
+Change Component Designator: OldDesignator=C28 NewDesignator=C24
+Change Component Designator: OldDesignator=C29 NewDesignator=C25
+Change Component Designator: OldDesignator=C30 NewDesignator=C26
+Change Component Designator: OldDesignator=C31 NewDesignator=C27
+Change Component Designator: OldDesignator=C32 NewDesignator=C28
+Change Component Designator: OldDesignator=C33 NewDesignator=C29
+Change Component Designator: OldDesignator=C34 NewDesignator=C30
+Change Component Designator: OldDesignator=C35 NewDesignator=C31
+Change Component Designator: OldDesignator=C36 NewDesignator=C32
+Change Component Designator: OldDesignator=C37 NewDesignator=C33
+Change Component Designator: OldDesignator=C38 NewDesignator=C34
+Change Component Designator: OldDesignator=C39 NewDesignator=C35
+Change Component Designator: OldDesignator=C40 NewDesignator=C36
+Change Component Designator: OldDesignator=C41 NewDesignator=C37
+Change Component Designator: OldDesignator=C42 NewDesignator=C38
+Change Component Designator: OldDesignator=C43 NewDesignator=C39
+Change Component Designator: OldDesignator=C44 NewDesignator=C40
+Change Component Designator: OldDesignator=C45 NewDesignator=C41
+Change Component Designator: OldDesignator=C46 NewDesignator=C42
+Change Component Designator: OldDesignator=C47 NewDesignator=C43
+Change Component Designator: OldDesignator=C48 NewDesignator=C44
+Change Component Designator: OldDesignator=C49 NewDesignator=C45
+Change Component Designator: OldDesignator=C50 NewDesignator=C46
+Change Component Designator: OldDesignator=C51 NewDesignator=C47
+Change Component Designator: OldDesignator=C52 NewDesignator=C48
+Change Component Designator: OldDesignator=C53 NewDesignator=C49
+Change Component Designator: OldDesignator=C54 NewDesignator=C50
+Change Component Designator: OldDesignator=C55 NewDesignator=C51
+Change Component Designator: OldDesignator=C56 NewDesignator=C52
+Change Component Designator: OldDesignator=C57 NewDesignator=C53
+Change Component Designator: OldDesignator=C58 NewDesignator=C54
+Change Component Designator: OldDesignator=C59 NewDesignator=C55
+Change Component Designator: OldDesignator=C60 NewDesignator=C56
+Change Component Designator: OldDesignator=C61 NewDesignator=C57
+Change Component Designator: OldDesignator=C62 NewDesignator=C58
+Change Component Designator: OldDesignator=C63 NewDesignator=C59
+Change Component Designator: OldDesignator=C64 NewDesignator=C60
+Change Component Designator: OldDesignator=C65 NewDesignator=C61
+Change Component Designator: OldDesignator=C66 NewDesignator=C62
+Change Component Designator: OldDesignator=C67 NewDesignator=C63
+Change Component Designator: OldDesignator=R33 NewDesignator=R35
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R39
+Change Component Designator: OldDesignator=R37 NewDesignator=R40
+Change Component Designator: OldDesignator=R38 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=U13 NewDesignator=U12
+Change Component Designator: OldDesignator=U17 NewDesignator=U13
+Change Component Designator: OldDesignator=U18 NewDesignator=U14
+Added Pin To Net: NetName=LED0 Pin=R21-2
+Added Pin To Net: NetName=LED1 Pin=R22-2
+Added Pin To Net: NetName=LED2 Pin=R23-2
+Added Pin To Net: NetName=LED3 Pin=R24-2
+Added Pin To Net: NetName=LED4 Pin=R25-2
+Added Pin To Net: NetName=LED5 Pin=R26-2
+Added Pin To Net: NetName=LED6 Pin=R32-2
+Added Pin To Net: NetName=LED7 Pin=R33-2
+Added Pin To Net: NetName=LED8 Pin=R34-2
+Added Pin To Net: NetName=LED9 Pin=R36-2
+Added Pin To Net: NetName=LED10 Pin=R37-2
+Added Pin To Net: NetName=LED11 Pin=R38-2
+Added Pin To Net: NetName=LED12 Pin=R41-2
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC30_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC31_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetR40_2
+Added Room: Name=TopLevel
+Added Room: Name=U_Microphones
+Added Room: Name=U_Power
+Added Room: Name=U_Tile 0
+Added Room: Name=U_Tile 1

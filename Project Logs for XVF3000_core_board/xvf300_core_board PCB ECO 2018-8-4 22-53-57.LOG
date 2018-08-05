@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=TopLevel Member=C26
+Removed Member From Class: ClassName=TopLevel Member=C27
+Added Member To Class: ClassName=U_Tile 1 Member=Component C24 2u2
+Added Member To Class: ClassName=U_Tile 1 Member=Component C25 1u
+Added Member To Class: ClassName=U_Tile 1 Member=Component C26 1u
+Added Member To Class: ClassName=U_Tile 1 Member=Component C27 2u2
+Added Member To Class: ClassName=TopLevel Member=Component C60 100n
+Added Member To Class: ClassName=TopLevel Member=Component C61 100n
+Added Member To Class: ClassName=TopLevel Member=Component C62 100n
+Added Member To Class: ClassName=TopLevel Member=Component U12 XVF3000-TQ128-C
+Added Member To Class: ClassName=U_Tile 1 Member=Component U13 CS43L21
+Added Member To Class: ClassName=TopLevel Member=Component U14 NC7WZ07
+Added Room: Name=TopLevel
+Added Room: Name=U_Microphones
+Added Room: Name=U_Power
+Added Room: Name=U_Tile 0
+Added Room: Name=U_Tile 1
