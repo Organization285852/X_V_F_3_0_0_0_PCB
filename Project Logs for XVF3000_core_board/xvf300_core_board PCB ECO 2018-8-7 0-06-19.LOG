@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USB_DN Pin=D1-3
+Removed Pin From Net: NetName=USB_DP Pin=D1-5
+Added Pin To Net: NetName=USB_DP Pin=D1-3
+Added Pin To Net: NetName=USB_DN Pin=D1-5
+Added Room: Name=TopLevel
+Added Room: Name=U_Microphones
+Added Room: Name=U_Power
+Added Room: Name=U_Tile 0
+Added Room: Name=U_Tile 1
