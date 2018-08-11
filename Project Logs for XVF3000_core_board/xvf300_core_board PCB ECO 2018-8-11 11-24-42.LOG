@@ -1,0 +1,56 @@
+Added Component: Designator=C20(C0603)
+Added Component: Designator=C21(C1206)
+Added Component: Designator=FB1(L0603)
+Added Component: Designator=J1(FFC/SM0.5-2H12A)
+Added Component: Designator=J2(FFC/SM0.5-2H12A)
+Added Component: Designator=J3(PJ-2008A-B)
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Component: Designator=TP5(TP)
+Added Component: Designator=TP6(TP)
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=NetC20_1 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=NetC20_1 Pin=FB1-1
+Added Pin To Net: NetName=3V3 Pin=FB1-2
+Added Pin To Net: NetName=NetC20_1 Pin=J1-1
+Added Pin To Net: NetName=MIC0_DATA Pin=J1-2
+Added Pin To Net: NetName=MIC1_DATA Pin=J1-3
+Added Pin To Net: NetName=MIC2_DATA Pin=J1-4
+Added Pin To Net: NetName=MIC3_DATA Pin=J1-5
+Added Pin To Net: NetName=MIC4_DATA Pin=J1-6
+Added Pin To Net: NetName=MIC5_DATA Pin=J1-7
+Added Pin To Net: NetName=MIC6_DATA Pin=J1-8
+Added Pin To Net: NetName=MIC7_DATA Pin=J1-9
+Added Pin To Net: NetName=MIC_CLK Pin=J1-10
+Added Pin To Net: NetName=1V8 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetC22_2 Pin=J3-2
+Added Pin To Net: NetName=NetC23_2 Pin=J3-3
+Added Pin To Net: NetName=I2C_SCL Pin=TP1-1
+Added Pin To Net: NetName=I2C_SDA Pin=TP2-1
+Added Pin To Net: NetName=I2S_BCLK Pin=TP3-1
+Added Pin To Net: NetName=I2S_LRCK Pin=TP4-1
+Added Pin To Net: NetName=MCLK_DAC Pin=TP5-1
+Added Pin To Net: NetName=I2S_DAC_DATA Pin=TP6-1
+Added Member To Class: ClassName=U_Tile 0 Member=Component C20 100n
+Added Member To Class: ClassName=U_Tile 0 Member=Component C21 10u
+Added Member To Class: ClassName=U_Tile 0 Member=Component FB1 330R 1.2A
+Added Member To Class: ClassName=U_Tile 0 Member=Component J1 CON12
+Added Member To Class: ClassName=U_Tile 0 Member=Component J2 CON12
+Added Member To Class: ClassName=U_Tile 1 Member=Component J3 PJ-2008A-B
+Added Member To Class: ClassName=U_Tile 1 Member=Component TP1 TP
+Added Member To Class: ClassName=U_Tile 1 Member=Component TP2 TP
+Added Member To Class: ClassName=U_Tile 1 Member=Component TP3 TP
+Added Member To Class: ClassName=U_Tile 1 Member=Component TP4 TP
+Added Member To Class: ClassName=U_Tile 1 Member=Component TP5 TP
+Added Member To Class: ClassName=U_Tile 1 Member=Component TP6 TP
+Added Room: Name=TopLevel
+Added Room: Name=U_Microphones
+Added Room: Name=U_Power
+Added Room: Name=U_Tile 0
+Added Room: Name=U_Tile 1

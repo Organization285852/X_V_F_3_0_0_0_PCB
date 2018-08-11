@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\智能家居\音频识别\XMOS\X_V_F_3_0_0_0_PCB\xvf300_core_board.PcbDoc
+Date         : 2018/8/11
+Time         : 15:56:23
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 402
+    Connections routed, 402
+    Connections remaining, 0
+count : 4
